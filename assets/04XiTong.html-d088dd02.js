@@ -1,2 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as s,a as e}from"./app-f9bcafb7.js";const a={},o=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`pnpm add -D vuepress-theme-hope
-`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),c=[o];function r(l,i){return n(),s("div",null,c)}const m=t(a,[["render",r],["__file","04XiTong.html.vue"]]);export{m as default};
