@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01c60cdc","path":"/JiaoCheng/","title":"基础教程","lang":"zh-CN","frontmatter":{"title":"基础教程","index":false,"icon":"laptop-code","category":["账户"],"author":"爱丽丝黑白"},"headers":[],"git":{},"readingTime":{"minutes":0.06,"words":19},"filePathRelative":"JiaoCheng/README.md","excerpt":""}');export{e as data};

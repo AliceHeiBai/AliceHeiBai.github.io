@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2495e020","path":"/CaiDan/","title":"菜单教程","lang":"zh-CN","frontmatter":{"title":"菜单教程","index":false,"icon":"laptop-code","category":["游戏菜单"],"author":"爱丽丝黑白"},"headers":[],"git":{},"readingTime":{"minutes":0.07,"words":21},"filePathRelative":"CaiDan/README.md","excerpt":""}');export{e as data};
