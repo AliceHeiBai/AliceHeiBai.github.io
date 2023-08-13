@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5029c018","path":"/JiaoCheng/04XiTong.html","title":"游戏菜单","lang":"zh-CN","frontmatter":{"title":"游戏菜单","index":false,"icon":"laptop-code","category":["游戏菜单"]},"headers":[],"git":{},"readingTime":{"minutes":0.07,"words":21},"filePathRelative":"JiaoCheng/04XiTong.md","excerpt":""}');export{e as data};
