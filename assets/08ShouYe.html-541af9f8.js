@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-414498ba","path":"/CaiDan/08ShouYe.html","title":"系统菜单-首页","lang":"zh-CN","frontmatter":{"title":"系统菜单-首页","index":false,"icon":"laptop-code","category":["游戏菜单"],"author":"爱丽丝黑白"},"headers":[],"git":{},"readingTime":{"minutes":0.17,"words":52},"filePathRelative":"CaiDan/08ShouYe.md","excerpt":""}');export{e as data};
